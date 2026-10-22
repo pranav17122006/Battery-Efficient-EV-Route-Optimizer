@@ -1,7 +1,7 @@
 import requests
 import time
 
-API_KEY = "5934eb89-eb4b-4884-85ba-71732e01b3ff"
+API_KEY = "api key"
 
 url = "https://api.openchargemap.io/v3/poi/"
 
